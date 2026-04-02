@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolo26+pyqt5实现多个注意力机制的102种花卉识别系统python源码+数据集+训练好模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck5trbA==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的药片胶囊计数系统python源码+pytorch模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck51yaQ==">下载</a></td></tr>
+<tr><td>基于YOLOv11姿态检测的AI健身助手python源码+模型+GUI界面+详细说明文档.7z</td><td><a href="https://mbd.pub/o/bread/YZWck5lwbA==">下载</a></td></tr>
+<tr><td>基于yolov8+pyqt5实现的水尺图像识别与水深计算系统python源码+训练好的模型+项目说明</td><td><a href="https://mbd.pub/o/bread/YZWckptwaQ==">下载</a></td></tr>
 <tr><td>基于yolov11+django+deepseek的水下鱼类检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmZhvZQ==">下载</a></td></tr>
 <tr><td>基于yolov11+django+deepseek的交通标志识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmJxwaw==">下载</a></td></tr>
 <tr><td>基于yolov8+django+deepseek的人脸表情识别检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbl5xpZQ==">下载</a></td></tr>
